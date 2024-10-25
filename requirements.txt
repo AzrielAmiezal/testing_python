@@ -4,3 +4,4 @@ streamlit==1.36.0
 pandas==2.2.3
 seaborn
 matplotlib
+streamlit-option-menu
