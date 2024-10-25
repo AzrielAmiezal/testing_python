@@ -1,6 +1,6 @@
 altair==5.2.0
 streamlit==1.36.0
-streamlit-autorefresh==1.0.1
+#streamlit-autorefresh==1.0.1
 pandas==2.2.3
 seaborn
 matplotlib
